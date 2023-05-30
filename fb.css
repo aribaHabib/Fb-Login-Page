@@ -9,6 +9,7 @@
     display: flex;
     background: #edf0f5;
     font-family: Helvetica, Arial, sans-serif;
+    overflow: hidden;
 }
 .leftside{
     position: relative;
